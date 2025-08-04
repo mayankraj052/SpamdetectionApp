@@ -10,7 +10,7 @@ A machine learning-powered application that classifies SMS messages as **Spam** 
 
 # 🖼️ Preview
 ![App Screenshot](Screenshot%202025-08-05%20000957.png)
-
+* [Live Link](https://sapm-detection-by-mayank.streamlit.app/)
 
 ## 🤖 Model Overview
 
