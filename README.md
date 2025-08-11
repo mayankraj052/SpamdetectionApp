@@ -8,6 +8,9 @@ A machine learning-powered application that classifies SMS messages as **Spam** 
 - ✅ TF-IDF-based text preprocessing
 - ✅ K-Fold evaluation metrics
 
+# 🖼️ Preview
+![App Screenshot](Screenshot%202025-08-05%20000957.png)
+* [Live Link](https://sapm-detection-by-mayank.streamlit.app/)
 
 ## 🤖 Model Overview
 
